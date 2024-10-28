@@ -1,0 +1,13 @@
+body{
+  background-color:rgb(255,12,125)
+}
+
+h1,h3{
+	text-align: center
+}
+p{
+	text-align: center
+}
+div a{
+	display:block
+}
